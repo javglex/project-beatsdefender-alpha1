@@ -6,5 +6,7 @@ Once everything is loaded expand the standard assets folder -> Scenes folder
 Double click testScene to open it
 once loaded click the play button!
 
-Please do not use this for personal projects.
-BETO EDIT THIS
+Please do not use without permission.
+
+Update: Project file does not open properly, all the code is functional but
+the objects in the editor do not reference to them. Will try to fix
