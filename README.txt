@@ -1,3 +1,5 @@
+The code are just snippets and don't compile into anything.
+Just to give an idea of my programming abilities.
 
 This first link is to a video showcasing my most current work.
 http://youtu.be/Y_Gm8H7Z7gQ
