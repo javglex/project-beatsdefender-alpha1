@@ -125,7 +125,7 @@ public class EnemyClassController:MonoBehaviour {		//this class is the controlle
 	BasicEnemyType1 enType1;
 
 	
-	public void ForceStart () {
+	public void ForceStart () {		//since this object is immediately disabled after being created (object pooling) it needs a manual start function
 		pos = new Vector2 (0, 10);
 		enType1=new BasicEnemyType1(this.gameObject, pos);
 		//enType1.Parent(this.transform);		//put all the instanced enemies under this gameobject, for organization
